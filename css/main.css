@@ -115,7 +115,7 @@ body {
  * ## links
  * ------------------------------------------------------------------- */
 a {
-  color: #EF3054;
+  color: #f08080;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
@@ -440,7 +440,7 @@ ul.disc li::before {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #EF3054;
+  background: #f08080;
   position: absolute;
   left: -16px;
   top: 11px;
@@ -449,7 +449,7 @@ ul.disc li::before {
 
 dt {
   margin: 0;
-  color: #EF3054;
+  color: #f08080;
 }
 
 dd {
@@ -932,7 +932,7 @@ textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-  -webkit-text-fill-color: #EF3054;
+  -webkit-text-fill-color: #f08080;
   -webkit-transition: background-color 5000s ease-in-out 0s;
   transition: background-color 5000s ease-in-out 0s;
 }
@@ -994,8 +994,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-  background: #EF3054;
-  border-color: #EF3054;
+  background: #f08080;
+  border-color: #f08080;
   color: #ffffff;
 }
 
@@ -1215,7 +1215,7 @@ input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-  color: #EF3054;
+  color: #f08080;
 }
 
 .stats-tabs li a em {
@@ -1480,7 +1480,7 @@ input::-moz-focus-inner {
   letter-spacing: .4em;
   margin-top: 0;
   margin-bottom: 6rem;
-  color: #EF3054;
+  color: #f08080;
 }
 
 .display-1 {
@@ -1844,8 +1844,8 @@ input::-moz-focus-inner {
 
 .header-content .btn:hover,
 .header-content .btn:focus {
-  background-color: #EF3054 !important;
-  border-color: #EF3054 !important;
+  background-color: #f08080 !important;
+  border-color: #f08080 !important;
 }
 
 /* ------------------------------------------------------------------- 
@@ -2058,7 +2058,7 @@ input::-moz-focus-inner {
   display: block;
   height: 2px;
   width: 8rem;
-  background-color: #EF3054;
+  background-color: #f08080;
   position: absolute;
   left: -10.8rem;
   top: .55em;
@@ -2095,7 +2095,7 @@ input::-moz-focus-inner {
 .hero-social a:hover,
 .hero-social a:focus,
 .hero-social a:active {
-  color: #EF3054;
+  color: #f08080;
 }
 
 .hero-social li {
@@ -2169,7 +2169,7 @@ input::-moz-focus-inner {
 
 .hero-scroll .scroll-link:hover,
 .hero-scroll .scroll-link:focus {
-  background-color: #EF3054;
+  background-color: #f08080;
 }
 
 /* -------------------------------------------------------------------
@@ -2461,7 +2461,7 @@ html.no-csstransitions .hero-content {
 .s-about__section--profile::before {
   content: "";
   display: block;
-  background-color: #114B5F;
+  background-color: #f08080;
   position: absolute;
   top: 0;
   bottom: 0;
@@ -2629,7 +2629,7 @@ html.no-csstransitions .hero-content {
 .s-services .vert-line {
   width: 2px;
   height: 20rem;
-  background-color: #EF3054;
+  background-color: #f08080;
   -webkit-transform: translate3d(50%, 0, 0);
   transform: translate3d(50%, 0, 0);
   position: absolute;
@@ -2684,7 +2684,7 @@ html.no-csstransitions .hero-content {
   font-weight: 600;
   font-size: .5em;
   line-height: 1;
-  color: #EF3054;
+  color: #f08080;
   position: absolute;
   top: .5em;
   left: 0;
@@ -2828,7 +2828,7 @@ html.no-csstransitions .hero-content {
 .s-portfolio::before {
   content: "";
   display: block;
-  background-color: #b3c2c1;
+  background-color: #f08080;
   position: absolute;
   top: 0;
   right: 0;
@@ -2969,7 +2969,7 @@ html.no-csstransitions .hero-content {
 .folio-item__project-link:hover,
 .folio-item__project-link:focus,
 .folio-item__project-link:active {
-  background-color: #EF3054;
+  background-color: #f08080;
   color: #ffffff;
 }
 
@@ -3263,7 +3263,7 @@ html.no-csstransitions .hero-content {
 }
 
 .s-footer .right-vert-line {
-  background-color: #EF3054;
+  background-color: #f08080;
 }
 
 .s-footer__bottom {
@@ -3300,7 +3300,7 @@ html.no-csstransitions .hero-content {
 
 .footer-contact-block a:hover,
 .footer-contact-block a:focus {
-  color: #EF3054;
+  color: #f08080;
 }
 
 .footer-contact-block__content,
@@ -3337,7 +3337,7 @@ html.no-csstransitions .hero-content {
 
 .ss-copyright a:hover,
 .ss-copyright a:focus {
-  color: #EF3054;
+  color: #f08080;
 }
 
 .ss-copyright span {
@@ -3387,7 +3387,7 @@ html.no-csstransitions .hero-content {
 
 .ss-go-top a:hover,
 .ss-go-top a:focus {
-  background-color: #EF3054;
+  background-color: #f08080;
 }
 
 .ss-go-top svg {
