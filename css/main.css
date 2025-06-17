@@ -1729,7 +1729,7 @@ input::-moz-focus-inner {
 
 .header-nav a:hover,
 .header-nav a:focus {
-  color: #ffffff !important;
+  color: #f08080 !important;
 }
 
 .header-nav li {
